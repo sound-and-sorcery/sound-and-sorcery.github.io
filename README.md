@@ -1,4 +1,4 @@
-sound-and-sorcery.github.io
+Sound & Sorcery
 ===========================
 
 This is the Sound & Sorcery website. :)
